@@ -26,21 +26,6 @@ This project demonstrates CRUD operations, database integration, and API-driven 
 
     Maven (Build tool)
 
-📂 Project Structure
-
-src/
- ├── main/
- │    ├── java/
- │    │    └── com.example.product
- │    │         ├── controller
- │    │         ├── service
- │    │         ├── repository
- │    │         └── model
- │    └── resources/
- │         ├── application.properties
- │         └── schema.sql
- └── test/
-      └── java/
    
 
 Configure the database
